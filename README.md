@@ -34,3 +34,43 @@ Ultralytics YOLOv5: The YOLOv5 model is sourced from the Ultralytics repository,
 ResNet18: A pre-trained ResNet18 model is employed for enhancing image preprocessing and improving the accuracy of object detection.
 
 The combination of these technologies forms a robust and effective framework for automating object extraction from static images, catering to various use cases in image processing and analysis.
+
+1.5 TEST CASE:
+
+INPUT IMAGE:
+people.jpg:
+
+![people](https://github.com/CodingNinja678/YOLOv5-Implementaion-With-Static-Input/assets/90537380/f9671480-ba3b-44cb-80fc-0cb1ee1e2047)
+
+INTERNAL WORKING:
+
+Convert to greyscale image:
+![image0](https://github.com/CodingNinja678/YOLOv5-Implementaion-With-Static-Input/assets/90537380/4c1c1dcf-da65-4683-b290-aa46d804b610)
+
+OUTPUT:
+
+Files generated:
+
+![WhatsApp Image 2023-08-10 at 11 08 01 PM (1)](https://github.com/CodingNinja678/YOLOv5-Implementaion-With-Static-Input/assets/90537380/b8edf856-d65e-49c0-af91-fe1fe9a8f051)
+
+Segmented Images:
+
+People Detected:
+
+![image0](https://github.com/CodingNinja678/YOLOv5-Implementaion-With-Static-Input/assets/90537380/eb5f758e-8ab9-4915-8f65-083d9f6ce726)
+
+![image02](https://github.com/CodingNinja678/YOLOv5-Implementaion-With-Static-Input/assets/90537380/79d09687-8196-49f6-8dc4-9bc507e0a9a7)
+
+![image03](https://github.com/CodingNinja678/YOLOv5-Implementaion-With-Static-Input/assets/90537380/c13fbd34-8b4f-4461-9ef8-0404c05c3c9c)
+
+![image04](https://github.com/CodingNinja678/YOLOv5-Implementaion-With-Static-Input/assets/90537380/f1163e74-a0dc-4e2e-b8df-eaa1c94f640f)
+
+![image05](https://github.com/CodingNinja678/YOLOv5-Implementaion-With-Static-Input/assets/90537380/cb6040de-e095-48be-b543-a3b4ef07e6fb)
+
+Bench Detected:
+
+![image0](https://github.com/CodingNinja678/YOLOv5-Implementaion-With-Static-Input/assets/90537380/b0fb6d70-0334-42f8-ac92-26541c29caa0)
+
+
+
+
